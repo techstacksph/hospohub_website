@@ -79,7 +79,7 @@ export default function Home() {
           </h1>
 
           <p className="mt-5 max-w-[620px] text-[17px] font-medium leading-7 text-[#253b49] md:text-[19px]">
-            Explore licensing requirements, practical guides
+            Explore licensing requirements, practical guides{" "}
             <br className="hidden sm:block" />
             and resources for your hospitality business.
           </p>
